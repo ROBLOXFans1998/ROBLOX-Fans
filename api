@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Ivan",
+            "last_name": "Jeffreys",
+            "username": "Localsite",
+            "email": "rblx.user2014@gmail.com"
+        },
+        {
+            "id": 2,
+            "first_name": "Alex",
+            "last_name": "Jeffreys",
+            "username": "Ajeffr123",
+            "email": "ajeffr123@gmail.com"
+        },
+        {
+            "id": 3,
+            "first_name": "Ivan",
+            "last_name": "Jeffreys",
+            "username": "Administrator",
+            "email": "rblx.user2014@gmail.com"
+        }
+    ]
+}
